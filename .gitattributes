@@ -15,3 +15,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+asp-net-mvc-angular2/packages/* linguist-vendored
